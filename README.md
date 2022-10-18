@@ -13,8 +13,15 @@ Dentro de este encontraremos variables como:
 - Sex: El sexo de la persona
 - Age: Edad de la persona.
 
-Dentro de la carpet Notebooks encontraás 3 notebooks para correr en el siguiente orden:
+Dentro de la carpeta Notebooks encontraás 3 notebooks para correr en el siguiente orden:
 
 1. Data Cleaning: En este notebook podrás ver como hice la limpieza del dataset, eliminando columnas con muy pocos valores y cambiando strings por valores, ejemplo sex female = 0, male = 1.
 2. Data Analisys: Encontrarás una revisión del dataset, donde vemos la cantidad de fallecidos por sexo o clase.
 3. Report: Notebook completo de trabajo donde utilizamos una regresión lineal para predecir quienes podrian sobrevivir al incidente.
+
+Por otra parte, en Data podrás encontrar los datasets para trabajar los notebooks, en el hay dos carpetas:
+1. Raw: Donde se encuentran las bases de manera bruta:
+  - Train: Base para entrenar el modelo de regresión.
+  - Test: Para testear el modelo
+  - Submmission: Para comparar el resultado del testeo.
+2. Proccesed: Base de Datos procesada.
