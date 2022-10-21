@@ -1,4 +1,5 @@
-# Casptone_project
+# Casptone_project_Titanic
+
 Análisis del Dataset de los sobrevivientes del Titanic.
 
 Integrantes: José Zamora Cifras
